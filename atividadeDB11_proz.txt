@@ -1,0 +1,28 @@
+os pilares da segurança de dados são:
+
+1-Confidencialidade: Garantir que apenas pessoas 
+autorizadas tenham acesso aos dados. Isso pode 
+ser alcançado através da criptografia dos dados 
+em repouso e em trânsito, bem como através do 
+controle de acesso baseado em funções (RBAC).
+
+2-Integridade: Garantir que os dados sejam precisos,
+completos e não tenham sido alterados indevidamente.
+Isso pode ser alcançado usando checksums, hashes e
+assinaturas digitais para verificar a integridade
+dos dados.
+
+3-Disponibilidade: Garantir que os dados estejam 
+disponíveis quando necessário. Isso envolve o uso
+de backups regulares, redundância de servidores e
+planos de contingência para lidar com falhas de hardware
+ou ataques.
+
+4-Autenticidade: Garantir que os dados sejam provenientes
+de fontes confiáveis e não tenham sido adulterados.
+Isso pode ser alcançado através de autenticação forte, 
+como autenticação de dois fatores (2FA) e certificados digitais.
+
+5-Não repúdio: Garantir que uma ação ou transação
+não possa ser negada posteriormente. Isso pode ser
+alcançado através de registros de auditoria e assinaturas digitais.
